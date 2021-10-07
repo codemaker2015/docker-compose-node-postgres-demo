@@ -2,9 +2,16 @@
 
 For the sake of making it more real-world, setup has also a build step.
 
+## Demos
+
+<img src="demos/screenshot1.png" alt="screenshot1" width="800px" height="470px" />
+<img src="demos/screenshot2.png" alt="screenshot2" width="800px" height="470px" />
+
 ## Run
 
+```sh
     docker-compose up --build
+```
 
 ## Test
 
